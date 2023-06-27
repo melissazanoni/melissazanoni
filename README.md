@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cf84c0&height=120&section=header" />
-<h1 align="center">Olá, eu sou a Melissa! 👋</h1>
-<h3 align="center">Estou aprendendo front-end!</h3>
+<h1 align="center">Oi, eu sou a Melissa!</h1>
+<h4 align="center">Estou aprendendo front-end!</h4>
 <div align="center">
     <img width="49%" height="196px" src="https://github-readme-stats-2-gbkfbdnc6-szayelfuchs-gmailcom.vercel.app/api?username=melissazanoni&show_icons=true&count_private=true&hide_border=true&title_color=cf84c0&icon_color=cf84c0&theme=transparent" alt="Stats" />
     <img width="43.3%"height="196px" src="https://github-readme-stats-2-gbkfbdnc6-szayelfuchs-gmailcom.vercel.app/api/top-langs/?username=melissazanoni&layout=compact&hide_border=true&title_color=cf84c0&theme=transparent" alt="Top Languages" />
