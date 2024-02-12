@@ -43,6 +43,12 @@
       <img align="center" src="https://img.shields.io/badge/-Java-0969da?style=flat&logo=oracle" alt="Java"/>
      </picture>
     </a>&nbsp;
+    <a href="https://git-scm.com/" target="_blank">
+      <picture>
+        <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fefefa" alt="Git"/>
+        <img align="center" src="https://img.shields.io/badge/-Git-0969da?style=flat&logo=git&logoColor=ffffff" alt="Git"/>
+      </picture>
+    </a>&nbsp;
 </div>
 </div>
 <hr />
